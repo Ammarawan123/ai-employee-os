@@ -79,16 +79,4 @@ npm install
 npm run dev
 ```
 
-## Not in this module (owned by teammates)
 
-AI brain/routing (Ammar), email/WhatsApp/meetings (Hafiz), CRM (Fouzia),
-quotations/invoices (Manahil), document intelligence/reporting (Abdullah).
-This backend's `/api/auth` and `/api/pricing` routes, plus the `User`/
-`Organization` tables, are the shared foundation those modules should build on.
-
-## Next steps for this module
-
-- Alembic migrations instead of `create_all` on startup
-- Redis-backed session/rate-limit layer for the auth endpoints
-- Kubernetes manifests (Deployment/Service/Ingress) once the API is stable
-- SSO (Business plan) — wire Auth.js on the frontend against an OIDC provider

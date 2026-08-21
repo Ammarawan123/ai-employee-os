@@ -1,4 +1,4 @@
-# AI Employee OS — Member 6 module (Mariam Osama)
+# AI Employee OS
 
 Scope: **Frontend, Backend, Security & Infrastructure**. 
 

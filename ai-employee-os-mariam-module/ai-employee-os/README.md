@@ -1,8 +1,6 @@
 # AI Employee OS — Member 6 module (Mariam Osama)
 
-Scope: **Frontend, Backend, Security & Infrastructure**. This is only this module —
-the other five members' parts (AI Brain, Communication, CRM, Finance, Documents/Reporting)
-are not included here and are expected to plug into the `/api/*` surface this backend exposes.
+Scope: **Frontend, Backend, Security & Infrastructure**. 
 
 ## Structure
 
